@@ -68,4 +68,5 @@ CREATE TABLE Enrollments (
 
 ## **Summary**
 **Primary Key**: Ensures the uniqueness of rows within a table.
+
 **Foreign Key**: Establishes relationships between tables and enforces referential integrity.
